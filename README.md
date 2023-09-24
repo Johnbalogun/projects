@@ -15,7 +15,7 @@
 -	Created an automated remediation process to proactively address vulnerabilities arising from Windows updates and third-party software
   
 <h2> Certifications</h2>
--Certified Information Systems Security Professional (CISSP), In Progress.
+-Comptia Security +, In Progress.
 -	Certified Google Cyber Security Specialist. 
 -	Certified Qualys Guard Specialist (PCI-DSS compliance, VMDR, Patch Management, Scanning Strategies).
 -	Knowledgeable in the PCI-DSS Framework and Standards.
