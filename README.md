@@ -1,5 +1,5 @@
 <h1>Hi, I'm John! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
-<h2>👨‍💻 Vulnerability Management projects Projects:</h2>
+<h2>👨‍💻 Vulnerability Management projects:</h2>
 
 - <b>- Vulnerability Management Analyst| Home Labs</b>
 
