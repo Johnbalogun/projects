@@ -1,5 +1,5 @@
-<h1>Hi, I'm John! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
-<h2>👨‍💻 Vulnerability Management/Siem and Cloud  projects:</h2>
+<h1>Hi, I'm John! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Projects</a>
+<h2>👨‍💻 Vulnerability Management/Siem and Cloud  projects:<h2></h2>
 
 - <b>- Vulnerability Management Analyst| Home Labs</b>
 
@@ -14,7 +14,7 @@
 -	Conducted comprehensive vulnerability assessments using Nessus, actively remediating identified vulnerabilities.
 -	Created an automated remediation process to proactively address vulnerabilities arising from Windows updates and third-party software
   
-<h2> Certifications</h2>
+  <h2>📃 Certifications:</h2>
 -Comptia Security +, In Progress.
 -	Certified Google Cyber Security Specialist. 
 -	Certified Qualys Guard Specialist (PCI-DSS compliance, VMDR, Patch Management, Scanning Strategies).
