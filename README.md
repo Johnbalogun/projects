@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Projects</a>
+<h1> <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Projects</a>
 <h2>👨‍💻 Vulnerability Management/Siem and Cloud  projects:<h2></h2>
 
 - <b>- Vulnerability Management Analyst| Home Labs</b>
